@@ -1,0 +1,13 @@
+server:
+  servlet:
+    context-path: /scrapy
+  port: 8000
+
+spring:
+  data:
+    mongodb:
+      host: 192.168.0.104
+      port: 27017
+      username: tieba
+      password: tieba
+      database: tieba

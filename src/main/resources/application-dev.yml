@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /
+  port: 7070
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://tieba:tieba@192.168.0.105:27017/tieba
