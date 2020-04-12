@@ -48,4 +48,8 @@ public class ImageController {
     public String add1() {
         return "future 1";
     }
+
+    public String add2() {
+        return "future 2";
+    }
 }
