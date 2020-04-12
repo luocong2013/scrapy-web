@@ -44,4 +44,8 @@ public class ImageController {
         }
         return res.toString();
     }
+
+    public String add1() {
+        return "future 1";
+    }
 }
