@@ -52,4 +52,8 @@ public class ImageController {
     public String add2() {
         return "future 2";
     }
+
+    public String add3() {
+        return "future 3";
+    }
 }
